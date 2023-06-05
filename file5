@@ -1,4 +1,0 @@
-[branch "r1"]
-        remote = origin
-        merge = refs/heads/main
-~
